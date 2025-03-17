@@ -4,4 +4,5 @@ Implements a complete ISA, FSM, datapath, and microsequencer to process Assembly
 
 **Note: Currently being updated to handle instructions using pipelined processing.
 
-
+## Control Store:
+[controlstore.pdf](https://github.com/user-attachments/files/19302016/controlstore.pdf)
